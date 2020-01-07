@@ -4,9 +4,9 @@
  * 
  * Part 1
  * 
- * @author Michael Kölling and David J. Barnes, modified by Zakaria Farah
+ * Zakaria Farah
  * 
- * @version 2019 . 01 .25
+ * 
  */
 public class ClockDisplay12
 {
