@@ -2,9 +2,8 @@
 /**
  * Part 3
  *
- * @author Zakaria Farah
+ * Zakaria Farah
  * 
- * @version 2019 . 01.25
  */
 public class AlarmClock
 {
