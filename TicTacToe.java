@@ -9,7 +9,7 @@ import java.awt.*;
  * 
  * 
  * @author Zakaria Farah
- * @version March 29, 2019
+ * 
  */
 
 public class TicTacToe implements ActionListener
